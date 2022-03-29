@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 199, 210);
+    font-family: Verdana, "DejaVu Sans", "sans-serif"
+}
+
+#two {
+    color: blue;
+    font-size: 36px
+}
+
+.odd {
+    font-size: 24px
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700
+}
